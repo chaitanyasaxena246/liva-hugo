@@ -1,4 +1,10 @@
 ---
 label: DevOps
 hide_body: false
-fields: []
+fields:
+- name: hy
+  type: text
+  config:
+    required: false
+  label: hy
+  description: sdsa
