@@ -8,3 +8,5 @@ fields:
     required: false
   label: hy
   description: sdsa
+pages:
+- exampleSite/content/blog/hy.md
